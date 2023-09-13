@@ -1,0 +1,8 @@
+{
+  "name": "prettytable",
+  "version": "0.0.1",
+  "description": "Script that automates the 'rebalance-lnd' Python script",
+  "scripts": [ "prettytable.sh" ],
+  "dependencies": {},
+  "install": "make install"
+}
